@@ -1,16 +1,23 @@
-## Hi there 👋
+# 0xaExe
 
-<!--
-**0xaExe/0xaExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hi there 👋 -->
 
-Here are some ideas to get you started:
+![CTF Player](https://img.shields.io/badge/CTF%20Player-TryHackMe-red?style=flat&logo=tryhackme&logoColor=white)
+![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-HackerOne-black?style=flat&logo=hackerone&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+Hi, I’m **Abdalla** — a passionate  **CTF Player** and **Bug Hunter**.
+
+---
+
+## 📫 Reach Me
+<!-- Add your social/contact links below if you want -->
+ - [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-81b1b9349/) 
+ - [Twitter](https://x.com/0xaExe) 
+<!-- - [TryHackMe](#) 
+---
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xaExe&show_icons=true&theme=dark) -->
