@@ -13,7 +13,7 @@ Hi, I’m **Abdalla** — a passionate  **CTF Player** and **Bug Hunter**.
 
 ---
 
-## 📫 Reach Me
+##  Reach Me
 <!-- Add your social/contact links below if you want -->
  - [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-81b1b9349/) 
  - [Twitter](https://x.com/0xaExe) 
