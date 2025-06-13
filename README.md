@@ -10,7 +10,12 @@
 - **Name**: Abdalla
 - **From**: Egypt
 - **Bug Hunter** | **Security Researcher** | **CTF Player**
-- Improving knowledge in **Webapp Vulnerabilities**
+- **Improving knowledge in Webapp Vulnerabilities**
+
+- **Reach Me**:
+- [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-81b1b9349/) 
+- [Twitter](https://x.com/0xaExe) 
+
 ---
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
@@ -44,13 +49,3 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=0xaExe&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
 <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaExe&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-
-##  Reach Me
-<!-- Add your social/contact links below if you want -->
- - [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-81b1b9349/) 
- - [Twitter](https://x.com/0xaExe) 
-<!-- - [TryHackMe](#) 
----
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xaExe&show_icons=true&theme=dark) -->
