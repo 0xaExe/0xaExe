@@ -50,9 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xaExe&theme=vision-friendly-dark&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaExe&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" />
 </p>
