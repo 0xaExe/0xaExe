@@ -9,7 +9,7 @@
 
 - **Name**: Abdalla
 - **From**: Egypt
-- **Bug Hunter** | **Security Researcher** | **CTF Player**
+- **Security Researcher** | **CTF Player**
 - **Improving knowledge in Webapp Vulnerabilities**
 
 - **Reach Me**:
