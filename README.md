@@ -1,14 +1,5 @@
-# Ex3cAbdalla
-
-<h2 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
 <h1>More about me</h1> 
 
-- **Name**: Abdalla
-- **From**: Egypt
 - **Security Researcher** | **CTF Player**
 - **Improving knowledge in Webapp Vulnerabilities**
 
